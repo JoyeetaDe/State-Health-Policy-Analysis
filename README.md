@@ -54,6 +54,32 @@ Coefficients are interpreted as conditional associations rather than causal effe
 
 ## Key Findings
 
+## Figures
+
+### Figure 1. Primary Care Provider Density and Hospital Admissions
+
+![Figure 1](figures/fig1_pcp_vs_admissions.png)
+
+*Relationship between primary care provider (PCP) density and hospital admissions per 1,000 population across U.S. states. The fitted line reflects a linear association estimated using ordinary least squares with robust standard errors and state-level socioeconomic controls. Lower hospital admissions are interpreted as fewer potentially unnecessary hospitalizations.*
+
+### Figure 2. Median Household Income and Life Expectancy
+
+![Figure 2](figures/fig2_income_vs_life_expectancy.png)
+
+*Association between median household income and life expectancy at birth across states. Higher income levels are associated with longer life expectancy, consistent with well-documented socioeconomic gradients in health outcomes. The fitted line reflects a multivariable regression with robust inference.*
+
+### Figure 3. Median Household Income and Hospital Admissions
+
+![Figure 3](figures/fig3_income_vs_admissions.png)
+
+*Relationship between median household income and hospital admissions per 1,000 population. States with higher incomes tend to experience lower rates of hospital admissions, suggesting fewer potentially avoidable hospitalizations in higher-resource environments.*
+
+### Figure 4. Estimated Effects of Policy and Socioeconomic Variables on Health Outcomes
+
+![Figure 4](figures/fig4_coefficients.png)
+
+*Coefficient comparison plot summarizing estimated effects from regression models of life expectancy and hospital admissions. Points represent coefficient estimates and horizontal lines denote 95% confidence intervals based on robust standard errors. Hospital admissions are interpreted as a proxy for potentially unnecessary hospitalizations. Estimates are shown on a common scale to facilitate comparison across outcomes.*
+
 ### Life Expectancy
 
 * **Median household income** is strongly and positively associated with life expectancy across states.
