@@ -23,7 +23,7 @@ The analysis is designed as an applied policy exercise, emphasizing clear interp
 
 ## Data
 
-**Note on computing environment:** The analysis was conducted in Google Colab. File paths within the notebook reference Colab’s virtual file system. Users wishing to reproduce the analysis locally may need to adjust data paths accordingly. and Variables
+**Note on computing environment:** The analysis was conducted in Google Colab. File paths within the notebook reference Colab’s virtual file system. Users wishing to reproduce the analysis locally may need to adjust data paths accordingly. 
 The analysis uses state-level data compiled from publicly available sources.
 
 ### Outcomes
